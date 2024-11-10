@@ -1,8 +1,6 @@
-Claro, aquí tienes el documento ordenado y organizado en tres secciones: **Frontend**, **Backend** y **Herramientas**. He hecho algunos ajustes para darle una estructura más clara y accesible.
 
 ---
-
-# 💫 About Me
+# 💫 Hola a todos
 ¡Hola! Soy Juan 👋 y me encanta programar 💻. Me apasiona explorar nuevas tecnologías y resolver problemas a través del código. Aquí en mi GitHub, comparto mis proyectos y colaboraciones, siempre buscando aprender y mejorar.
 
 ---
